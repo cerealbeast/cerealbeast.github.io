@@ -1,0 +1,18 @@
+header {
+    background: url(../images/The_Moon.png) center / cover;
+    height: 60vh;
+    justify-content: center;
+    text-align: center;
+  }
+
+  main {
+    max-width: 900px;
+  }
+
+  .project-description {
+    padding-left: 0;
+  }
+
+  .project img {
+    width: 100%;
+  }
