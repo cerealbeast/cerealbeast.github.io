@@ -2,7 +2,7 @@ body {
   padding-bottom: 5rem;
 }
 header {
-    background: url(images/The_Moon.png) center / cover;
+    background: url(../images/The_Moon.png) center / cover;
     height: 60vh;
     justify-content: center;
     text-align: center;
